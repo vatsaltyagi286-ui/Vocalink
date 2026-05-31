@@ -1,0 +1,22 @@
+0 Bathroom & Restroom
+1 Call & Number
+2 Dislike
+3 Drink
+4 Goodbye
+5 GoodLuck
+6 Heart
+7 HII
+8 Hungry
+9 I
+10 I love you
+11 Looser
+12 NO
+13 Okay
+14 Peace
+15 Please
+16 Question
+17 Sorry
+18 Stand
+19 Thanks
+20 Water
+21 YES
